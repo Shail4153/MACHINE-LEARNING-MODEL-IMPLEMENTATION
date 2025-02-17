@@ -2,11 +2,11 @@
 
 **Name**: SAHIL BANIYAL
 
-**INTERN ID**: CT0806HU
+**INTERN ID**: CT08NLA
 
 **Domain**: Python Programming
 
-**BATCH Duration**: 12th December to 12th January
+**BATCH Duration**: 20th January to 20th Feburary
 
 **Mentor**: Neela Santhosh Kumar
 
