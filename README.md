@@ -17,17 +17,6 @@
 This script demonstrates the implementation of a machine learning-based **spam detection application** using Python. It integrates various libraries and frameworks such as Pandas, Scikit-learn, and Streamlit to create an end-to-end solution. Key functionalities include:  
 
 ---
-
-### OUPUT OF THE TASK
-
-![task44](https://github.com/user-attachments/assets/c84a1762-1f44-499c-8450-2ed1e7031936)
-
----
-
-![task4](https://github.com/user-attachments/assets/c9567518-2d0d-45ef-9ee3-42559abf2cdb)
-
----
-
 1. **Data Preparation**:  
    - Loads a CSV dataset of labeled messages (`spam.csv`) with relevant columns (`Category` and `Message`).  
    - Cleans the data by removing duplicates and standardizing the target labels (`Spam` and `Not Spam`).  
